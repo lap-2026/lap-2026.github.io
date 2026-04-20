@@ -81,4 +81,4 @@ O plano tentativo para as aulas será aqui exposto.
 |7|8/4|[Tipos Algébricos. Árvores binárias.](slides/pt/aula11.ipynb)|||
 |7|9/4|[Árvores n-árias.](slides/pt/aula12.ipynb)|||
 |-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Projeto Dune](praticas/en/project1/hailmary.zip)|
-|7|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/lab7_pairing_heap.pdf)|
+|7|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/pairing_heap.pdf)|
