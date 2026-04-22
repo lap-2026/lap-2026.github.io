@@ -87,4 +87,16 @@ O plano tentativo para as aulas será aqui exposto.
 |8|16/4|Primeiro Teste.|||
 |8|P||||
 |9|22/4|Não houve aula.|||
+|9|23/4|Módulos. Estado mutável. Memoization.|||
 |9|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/pairing_heap.pdf)|
+|10|29/4|Representação funcional de linguagens Object-Oriented|||
+|10|30/4|Representação de linguagens Object-Oriented em C|||
+|11|6/5|Mecanismos de suporte para Datalog e Prolog.|||
+|11|7/5|Código como dados, parsing.|||
+|12|13/5|Construção de Interpretadores. Definição da semântica de uma linguagem.|||
+|12|14/5|Sistemas de tipos (linearidade em Rust)|||
+|13|20/5|Máquinas de Pilha. Construção de compiladores|||
+|13|21/5|Interpretador de Lambda-calculus. Closures.|||
+|14|27/5|Union join - Inferência de tipos em Lambda-Calculus|||
+|14|28/5||||
+
