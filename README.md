@@ -97,6 +97,6 @@ O plano tentativo para as aulas será aqui exposto.
 |12|14/5|Sistemas de tipos (linearidade em Rust)|||
 |13|20/5|Máquinas de Pilha. Construção de compiladores|||
 |13|21/5|Interpretador de Lambda-calculus. Closures.|||
-|14|27/5|Union join - Inferência de tipos em Lambda-Calculus|||
+|14|27/5|Union find - Inferência de tipos em Lambda-Calculus|||
 |14|28/5||||
 
