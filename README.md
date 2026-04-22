@@ -87,5 +87,4 @@ O plano tentativo para as aulas será aqui exposto.
 |8|16/4|Primeiro Teste.|||
 |8|P||||
 |9|22/4|Não houve aula.|||
-|9|P||||
 |9|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/pairing_heap.pdf)|
