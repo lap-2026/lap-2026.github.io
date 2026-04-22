@@ -78,6 +78,13 @@ O plano tentativo para as aulas será aqui exposto.
 |5|P||[Exercícios: Tipos produto e soma](praticas/pt/lab4/lab4_prod_sum_types_recs.ipynb)||
 |6|P||[Exercícios: Listas](praticas/pt/lab5/lab5_listas.ipynb) [Exercícios: Funções de ordem superior](<praticas/pt/lab5/lab5_comb_higer_order_fun copy.ipynb>)||
 |6|1/4|[Merge sort.](slides/pt/aula10.ipynb)|||
+|-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Projeto Dune](praticas/en/project1/hailmary.zip)|
 |7|8/4|[Tipos Algébricos. Árvores binárias.](slides/pt/aula11.ipynb)|||
 |7|9/4|[Árvores n-árias.](slides/pt/aula12.ipynb)|||
-|-|Projeto 1|||[Hail Mary Rescue](praticas/en/project1/HailMaryRescue.pdf) [Projeto Dune](praticas/en/project1/hailmary.zip)|
+|7|P|Apoio ao projeto|||
+|8|15/4|Não houve aula (ExpoFCT).|||
+|8|16/4|Resolução de exercícios.|||
+|8|16/4|Primeiro Teste.|||
+|8|P||||
+|9|22/4|Não houve aula.|||
+|9|P||||
