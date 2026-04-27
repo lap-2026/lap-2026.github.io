@@ -91,7 +91,7 @@ O plano tentativo para as aulas será aqui exposto.
 |9|P||[Exercícios: Pairing Heap](praticas/pt/lab7/lab7_pairing_heap.ipynb) |[PDF](praticas/pt/lab7/pairing_heap.pdf)|
 |10|29/4|Módulos. Estado mutável. Memoization.|||
 |10|30/4|Suporte à execução de linguagens Object-Oriented|||
-|10|P||[Exercícios: Quad trees](praticas/pt/lab8/lab8_quadtrees.ipynb) |[PDF](praticas/pt/lab8/lab8_quadtrees.pdf)|
+|10|P||[Exercícios: Quad trees](praticas/pt/lab8/lab8_quadtrees.ipynb) |[Projeto Dune](praticas/pt/lab8/quad.zip)|
 |11|6/5|Máquinas de Pilha. Mecanismos de suporte para Datalog e Prolog.|||
 |11|7/5|Código como dados, parsing, geradores de parsers.|||
 |12|13/5|Construção de Interpretadores. Definição da semântica de uma linguagem.|||
