@@ -79,7 +79,7 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |11|6/5|Stack machines. Support mechanisms for Datalog and Prolog.|||
 |11|7/5|Code as data, parsing, parser generators.|||
 |11|P|| [Exercises: Modular Pairing Heap](praticas/en/lab9/lab9_functor_pairing_heap.ipynb) [Exercises: Memoization](praticas/en/lab9/lab9_memoisation.ipynb)||
-|-|Project 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](praticas/en/project2/project2zip.zip)|
+|-|Project 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](https://github.com/lap-2026/project2starter)|
 |12|13/5|Interpreter construction. Defining the semantics of a language.|||
 |12|14/5|Type systems. Inference vs. checking. Linearity in Rust.|||
 |13|20/5|Compiler construction.|||

@@ -95,7 +95,7 @@ O plano tentativo para as aulas será aqui exposto.
 |11|6/5|Suporte à execução de linguagens Object-Oriented. Máquinas de Pilha. Mecanismos de suporte para Datalog e Prolog.|||
 |11|7/5|Código como dados, parsing, geradores de parsers.|||
 |11|P|| [Exercícios: Pairing Heap Modular](praticas/pt/lab9/lab9_functor_pairing_heap.ipynb) [Exercícios: Memoization](praticas/pt/lab9/lab9_memoisation.ipynb)||
-|-|Projeto 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](praticas/en/project2/project2zip.zip)|
+|-|Projeto 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](https://github.com/lap-2026/project2starter)|
 |12|13/5|Construção de Interpretadores. Definição da semântica de uma linguagem.|||
 |12|14/5|Sistemas de tipos. Inferência vs verificação. Linearidade em Rust|||
 |13|20/5|Construção de compiladores|||
