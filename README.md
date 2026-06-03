@@ -96,10 +96,10 @@ O plano tentativo para as aulas será aqui exposto.
 |11|7/5|[Código como dados, parsing. Máquinas de Pilha.](slides/pt/aula17.pdf)|||
 |11|P|| [Exercícios: Pairing Heap Modular](praticas/pt/lab9/lab9_functor_pairing_heap.ipynb) [Exercícios: Memoization](praticas/pt/lab9/lab9_memoisation.ipynb)||
 |-|Projeto 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](https://github.com/lap-2026/project2starter)|
-|12|13/5|Construção de Interpretadores. Definição da semântica de uma linguagem.|||
-|12|14/5|Sistemas de tipos. Inferência vs verificação. Linearidade em Rust|||
-|13|20/5|Construção de compiladores|||
-|13|21/5|Interpretador de Lambda-calculus. Closures.|||
-|14|27/5|Inferência de tipos em Lambda-Calculus|||
-|14|28/5|Questões para o teste|||
+|12|13/5|[Linguagens baseadas em lógica (Algoritmos)](slides/en/lec18.pdf)|||
+|12|14/5|[Suporte para execução concorrente](slides/en/lec19.pdf)|||
+|13|20/5|[Concorrência em linguagens de programação](slides/en/lec20.pdf)|||
+|13|21/5|[Lambda-calculus revisited. Interpretador com Closures, Type inference.](slides/en/lec21.pdf)|[Código de Suporte](slides/en/lec21.ipynb)||
+|14|27/5|Questões para o teste|||
+|14|28/5|(Não houve aula)|||
 ||9/6|Segundo teste|||

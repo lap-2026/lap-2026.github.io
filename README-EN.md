@@ -80,10 +80,10 @@ The plan for the theoretical classes is as follows: (This may change anytime wit
 |11|7/5|[Code as data, parsing. Stack machines.](slides/en/lec17.pdf)|||
 |11|P|| [Exercises: Modular Pairing Heap](praticas/en/lab9/lab9_functor_pairing_heap.ipynb) [Exercises: Memoization](praticas/en/lab9/lab9_memoisation.ipynb)||
 |-|Project 2|||[From Mondrian to Escher](praticas/en/project2/Eschers.pdf) [Starter Code](https://github.com/lap-2026/project2starter)|
-|12|13/5|Interpreter construction. Defining the semantics of a language.|||
-|12|14/5|Type systems. Inference vs. checking. Linearity in Rust.|||
-|13|20/5|Compiler construction.|||
-|13|21/5|Lambda-calculus interpreter. Closures.|||
+|12|13/5|[Logic-based languages (Algorithms)](slides/en/lec18.pdf)|||
+|12|14/5|[Support for concurrent execution](slides/en/lec19.pdf)|||
+|13|20/5|[Concurrency in programming languages](slides/en/lec20.pdf)|||
+|13|21/5|[Lambda-calculus revisited. Interpreter with Closures, Type inference.](slides/en/lec21.pdf)|[Supporting Code](slides/en/lec21.ipynb)||
 |14|27/5|Type inference in Lambda-calculus.|||
 |14|28/5|Test questions.|||
 ||9/6|Second test.|||
